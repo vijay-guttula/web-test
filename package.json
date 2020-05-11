@@ -35,6 +35,7 @@
     "dependencies": {
         "bootstrap": "^4.4.1",
         "bootstrap-social": "^5.1.1",
+        "clean-css": "^4.2.3",
         "font-awesome": "^4.7.0",
         "jquery": "^3.5.1",
         "jsonlint": "^1.6.3",
